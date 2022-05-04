@@ -4,12 +4,12 @@ Hi 👋 My name is Arjun Saxena
 Front End Developer and Learning DevOps
 ---------------------------------------
 
-Well off with DSA ,currently pursuing my graduation from Computer Science and Engineering .Had done Front End Development and currently devoted to DevOps as my full pledge career.
+Well off with DSA, currently pursuing my graduation from Computer Science and Engineering. Had done Front End Development and currently devoted to DevOps as my full pledge career.
 
 * ✉️  You can contact me at [arjun.saxena.as2002@gmail.com](mailto:arjun.saxena.as2002@gmail.com)
 * 🧠  I'm learning DevOps <docker/K8/version-control>
 * 🤝  I'm open to collaborating on Projects on social work /vivid preference
-* ⚡  Writing ,soccer and mobile\_Photography
+* ⚡  Writing, soccer and mobile\_Photography
 
 ### Skills
 
